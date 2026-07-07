@@ -1,0 +1,28 @@
+{
+  "identifier" : "Framebook",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "1100001",
+      "localizations" : [
+        {
+          "description" : "Unlock Mat and glass cost calculator with supplier price memory",
+          "displayName" : "Framebook Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.framinglog.pro",
+      "referenceName" : "Framebook Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
